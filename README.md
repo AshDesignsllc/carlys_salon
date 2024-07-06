@@ -45,7 +45,7 @@ Here's how to use the project:
 
 import carlys_clippers
 
-# Example usage
+### Example usage
 carlys_clippers.calculate_metrics()
 
 ### Features
