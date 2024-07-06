@@ -67,6 +67,6 @@ To contribute to this project, follow these steps:
 This project is based on a lesson from Codecademy.com.
 
 ### Contact
-Author: Ashley Strickland-Horne
-Email: support@ash-designs.co
+Author: Ashley Strickland-Horne\
+Email: support@ash-designs.co\
 GitHub: AshDesignsLLC
