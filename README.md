@@ -5,13 +5,13 @@ A beginner friendly code for working with loops and variables in Python from a p
 Analyze data for Carly's Clippers, the newest hair salon in town, to help optimize business operations.
 
 ## Table of Contents
-- Description
-- Installation
-- Usage
-- Features
-- Contributing
-- Acknowledgements
-- Contact
+- [Description](#description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Features](#Features)
+- [Contributing](#Contributing)
+- [Acknowledgements](#Acknowledgements)
+- [Contact](#Contact)
 
 ## Description
 This project is based on a Codecademy.com Python exercise. As the Data Analyst at Carly's Clippers, your task is to analyze data collected over the past few weeks. By calculating key metrics, you'll help Carly plan the business operations for the upcoming month.
@@ -27,17 +27,17 @@ Each index in **hairstyles** aligns with the corresponding index in **prices** a
 ### Installation
 To install and run this project, follow these steps:
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/your-username/your-project-name.git
 
-# Navigate to the project directory
+### Navigate to the project directory
 cd your-project-name
 
-# (Optional) Create a virtual environment
+### (Optional) Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-# Install the dependencies
+### Install the dependencies
 pip install -r requirements.txt
 
 ### Usage
